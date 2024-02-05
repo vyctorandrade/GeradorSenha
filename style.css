@@ -33,6 +33,8 @@ body {
   
   .password {
     display: flex;
+    align-items:center ;
+    padding: 1rem 1.5rem;
   }
   .password .text {
     flex: 1;
